@@ -5,6 +5,3 @@
 [submodule "fwtraits"]
 	path = fwtraits
 	url = https://github.com/anthonybasooma/fwtraits
-[submodule "specleanr"]
-	path = specleanr
-	url = https://github.com/anthonybasooma/specleanr
